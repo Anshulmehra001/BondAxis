@@ -6,7 +6,6 @@ A revolutionary DeFi platform that democratizes access to the Indian corporate b
 
 ![BondAxis Platform](https://img.shields.io/badge/Platform-Ethereum-blue)
 ![Network](https://img.shields.io/badge/Network-Sepolia%20Testnet-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 🎯 Problem Statement
 
@@ -125,7 +124,7 @@ contract BondAxis is ERC20, Ownable, ReentrancyGuard {
 ### Installation
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/Anshulmehra001/BondAxis.git
 cd bondaxis-platform
 
 # Install dependencies  
@@ -188,12 +187,10 @@ npm run dev
 
 -Yishu Bhaskar
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details
 
 ---
 
 **BondAxis** - *Democratizing Indian Corporate Bond Access Through DeFi Innovation*
-#
+
+© 2025 Aniket Mehra & Yishu Bhaskar. All Rights Reserved.
 
