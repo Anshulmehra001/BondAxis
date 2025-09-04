@@ -186,7 +186,7 @@ npm run dev
 
 -Aniket Mehra
 
--yishu Bhaskar
+-Yishu Bhaskar
 
 ## 📄 License
 
@@ -196,3 +196,4 @@ MIT License - see [LICENSE](LICENSE) for details
 
 **BondAxis** - *Democratizing Indian Corporate Bond Access Through DeFi Innovation*
 #
+
