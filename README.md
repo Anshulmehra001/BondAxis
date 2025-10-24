@@ -1,7 +1,5 @@
 # BondAxis - Decentralized Indian Bond Trading Platform
 
-🏆 **Securities Market Hackathon Submission**
-
 A revolutionary DeFi platform that democratizes access to the Indian corporate bond market through blockchain tokenization, AI-powered fair value pricing, and instant AMM liquidity.
 
 ![BondAxis Platform](https://img.shields.io/badge/Platform-Ethereum-blue)
@@ -148,7 +146,7 @@ npm run dev
 4. **Trade Instantly**: AMM swaps with real-time pricing
 5. **Monitor Portfolio**: Track tokenized bond holdings
 
-## 🎯 Hackathon Impact
+## 🎯 Impact
 
 ### Market Disruption Potential
 - **Democratization**: ₹10,000 minimum vs ₹10 lakh traditional minimums
@@ -181,17 +179,16 @@ npm run dev
 - 🔄 Regulatory sandbox participation
 - 🔄 Real Digital Rupee integration
 
-## 👥 Team
+## 👥 Developer
 
 -Aniket Mehra
-
--Yishu Bhaskar
 
 
 ---
 
 **BondAxis** - *Democratizing Indian Corporate Bond Access Through DeFi Innovation*
 
-© 2025 Aniket Mehra & Yishu Bhaskar. All Rights Reserved.
+© 2025 Aniket Mehra. All Rights Reserved.
+
 
 
